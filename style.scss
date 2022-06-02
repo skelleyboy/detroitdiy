@@ -16,6 +16,9 @@
 html {
   font-size: 100%;
 }
+
+
+
 	
 body {
 	background: $white;
@@ -305,6 +308,8 @@ footer {
 }
 
 @media (min-width: 1025px) {
+    .logo {max-width: 400px;}
+    .logoContainer {text-align: center;}
     .posts > .post {
     max-width: 200px;
         display: inline-block;
