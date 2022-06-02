@@ -304,6 +304,16 @@ footer {
   text-align: center;
 }
 
+@media (min-width: 1025px) {
+    .posts > .post {
+    max-width: 200px;
+        display: inline-block
+    }
+    #main {
+  max-width: 100%;
+    }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
