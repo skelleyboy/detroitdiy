@@ -1,0 +1,21 @@
+---
+label: blogpost
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+pages:
+- _posts/2022-06-03-june-3-2020-spiter-jail-scumrotten-donovan-s-pub.md
