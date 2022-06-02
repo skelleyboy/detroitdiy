@@ -19,4 +19,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- _posts/2022-06-02-post.md
 - _posts/2022-06-03-june-3-2020-spiter-jail-scumrotten-donovan-s-pub.md
