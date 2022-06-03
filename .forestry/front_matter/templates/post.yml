@@ -18,3 +18,5 @@ fields:
     time_format: 
     display_utc: false
     export_format: MM-DD-YYY h:mm A
+pages:
+- _posts/testing.md
